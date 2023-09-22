@@ -3,11 +3,11 @@ From the comfort of your preferred Discord server, all you need to do is type a 
 
 Future features:
 
-Recommended builds for champions.
+- Recommended builds for champions.
 
 
-User match history within Discord.
+- User match history within Discord.
 
 
-
-Statistics of allies and enemies.
+- Statistics of allies and enemies.
+  
