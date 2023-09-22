@@ -2,6 +2,9 @@
 From the comfort of your preferred Discord server, all you need to do is type a command, and Is Playing League? BOT will provide you with the information you requested.
 
 Future features:
+
 Recommended builds for champions.
+
 User match history within Discord.
+
 Statistics of allies and enemies.
